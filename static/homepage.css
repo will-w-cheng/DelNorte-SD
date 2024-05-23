@@ -76,7 +76,7 @@ body, html {
     left: 50%;
     transform: translate(-50%, -50%);
     opacity: 0.5;
-    transition: opacity 3s, color 3s;
+    transition: opacity 1s, color 1s;
     color:#fff;
 }
 
